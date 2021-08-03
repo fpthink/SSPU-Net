@@ -1,5 +1,3 @@
-# SSPU-Net
-
-SSPU-Net: Self-Supervised Point Cloud Upsampling via Differentiable Rendering (ACM Multimedia 2021)
+### SSPU-Net: Self-Supervised Point Cloud Upsampling via Differentiable Rendering (ACM Multimedia 2021)
 
 
